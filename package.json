@@ -1,0 +1,23 @@
+{
+  "name": "back-end",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Zombie-Survivor/Back-End.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Zombie-Survivor/Back-End/issues"
+  },
+  "homepage": "https://github.com/Zombie-Survivor/Back-End#readme",
+  "dependencies": {
+    "knex": "^2.4.2",
+    "pg": "^8.9.0"
+  }
+}
